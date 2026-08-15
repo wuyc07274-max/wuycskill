@@ -46,7 +46,7 @@
 
 ```bash
 # 克隆本仓库
-git clone https://github.com/wuyc07274-max/claude-skills.git
+git clone https://github.com/wuyc07274-max/wuycskill.git
 
 # 复制需要的技能（以 midjourney 为例）
 cp -r claude-skills/skills/midjourney ~/.claude/skills/
